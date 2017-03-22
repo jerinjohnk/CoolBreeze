@@ -1,0 +1,2 @@
+c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\CoolBreeze.UWP.csproj;x86
+c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze\CoolBreeze.csproj;neutral
