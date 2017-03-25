@@ -4,7 +4,9 @@
   <uses-sdk android:minSdkVersion="15" />
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-  <application android:label="CoolBreeze.Android" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+  <application android:label="CoolBreeze.Android" android:name="md5d8f54a7ce3f2a8e423c5c9549a97657a.MainApplication" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
     <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="CoolBreeze" android:theme="@style/MainTheme" android:name="md5d8f54a7ce3f2a8e423c5c9549a97657a.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />

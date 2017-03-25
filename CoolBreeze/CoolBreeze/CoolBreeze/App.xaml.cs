@@ -10,13 +10,14 @@ namespace CoolBreeze
     public partial class App : Application
     {
         public static MainViewModel ViewModel;
-        public static string RegistrationCode = "<YOUR CHALLENGE REGISTRATION CODE>";
+        //public static string RegistrationCode = "<YOUR CHALLENGE REGISTRATION CODE>";
+        public static string RegistrationCode = "XBWW6B97595E687FA7D34CEB6367507F";
 
         public App()
         {
             InitializeComponent();
 
-            MainPage = new CoolBreeze.MainPage();
+            MainPage = new NavigationPage(new StartPage());
         }
 
         protected override void OnStart()

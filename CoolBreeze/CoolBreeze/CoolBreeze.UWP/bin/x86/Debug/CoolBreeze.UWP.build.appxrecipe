@@ -10,19 +10,19 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>4639c937-5d7b-426d-afa6-9e4b92c21098</PackageIdentityName>
     <PackageIdentityPublisher>CN=Jerin</PackageIdentityPublisher>
-    <IntermediateOutputPath>c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\bin\x86\Debug\CoolBreeze.UWP.exe">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\bin\x86\Debug\CoolBreeze.UWP.exe">
       <PackagePath>entrypoint\CoolBreeze.UWP.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jerin\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
@@ -334,6 +334,12 @@
     <AppxPackagedFile Include="C:\Users\Jerin\.nuget\packages\System.Xml.XmlSerializer\4.0.10\lib\netcore50\System.Xml.XmlSerializer.dll">
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jerin\.nuget\packages\Xam.Plugin.Geolocator\3.0.4\lib\UAP10\Plugin.Geolocator.Abstractions.dll">
+      <PackagePath>Plugin.Geolocator.Abstractions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jerin\.nuget\packages\Xam.Plugin.Geolocator\3.0.4\lib\UAP10\Plugin.Geolocator.dll">
+      <PackagePath>Plugin.Geolocator.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Jerin\.nuget\packages\Xamarin.Forms\2.3.3.193\lib\uap10.0\Xamarin.Forms.Core.dll">
       <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
     </AppxPackagedFile>
@@ -346,140 +352,149 @@
     <AppxPackagedFile Include="C:\Users\Jerin\.nuget\packages\Xamarin.Forms\2.3.3.193\lib\uap10.0\Xamarin.Forms.Xaml.dll">
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\CoolBreeze.dll">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\CoolBreeze.dll">
       <PackagePath>CoolBreeze.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\Newtonsoft.Json.dll">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\CoolBreeze.dll.config">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\CoolBreeze.dll.config">
       <PackagePath>CoolBreeze.dll.config</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\CoolBreeze_150x150.scale-100.png">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\CoolBreeze_150x150.scale-100.png">
       <PackagePath>Assets\CoolBreeze_150x150.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\CoolBreeze_310x150.scale-100.png">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\CoolBreeze_310x150.scale-100.png">
       <PackagePath>Assets\CoolBreeze_310x150.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\CoolBreeze_310x310.scale-100.png">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\CoolBreeze_310x310.scale-100.png">
       <PackagePath>Assets\CoolBreeze_310x310.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\CoolBreeze_44x44.scale-100.png">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\CoolBreeze_44x44.scale-100.png">
       <PackagePath>Assets\CoolBreeze_44x44.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\CoolBreeze_50x50.scale-100.png">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\CoolBreeze_50x50.scale-100.png">
       <PackagePath>Assets\CoolBreeze_50x50.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\CoolBreeze_71x71.scale-100.png">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\CoolBreeze_71x71.scale-100.png">
       <PackagePath>Assets\CoolBreeze_71x71.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\CoolBreeze_splash.scale-100.png">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\CoolBreeze_splash.scale-100.png">
       <PackagePath>Assets\CoolBreeze_splash.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\LockScreenLogo.scale-100.png">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\forecast.png">
+      <PackagePath>Assets\forecast.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\location.png">
+      <PackagePath>Assets\location.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\today.png">
+      <PackagePath>Assets\today.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\LockScreenLogo.scale-100.png">
       <PackagePath>Assets\LockScreenLogo.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\LockScreenLogo.scale-125.png">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\LockScreenLogo.scale-125.png">
       <PackagePath>Assets\LockScreenLogo.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\LockScreenLogo.scale-150.png">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\LockScreenLogo.scale-150.png">
       <PackagePath>Assets\LockScreenLogo.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\LockScreenLogo.scale-400.png">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\LockScreenLogo.scale-400.png">
       <PackagePath>Assets\LockScreenLogo.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\SplashScreen.scale-125.png">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\SplashScreen.scale-125.png">
       <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\SplashScreen.scale-150.png">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\SplashScreen.scale-150.png">
       <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\SplashScreen.scale-400.png">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\Square150x150Logo.scale-125.png">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\Square150x150Logo.scale-125.png">
       <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\Square150x150Logo.scale-150.png">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\Square150x150Logo.scale-150.png">
       <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\Square150x150Logo.scale-400.png">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\Square44x44Logo.scale-125.png">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\Square44x44Logo.scale-125.png">
       <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\Square44x44Logo.scale-150.png">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\Square44x44Logo.scale-150.png">
       <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\Square44x44Logo.scale-400.png">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\Square44x44Logo.targetsize-16_altform-unplated.png">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\Square44x44Logo.targetsize-16_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16_altform-unplated.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\Square44x44Logo.targetsize-32_altform-unplated.png">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\Square44x44Logo.targetsize-32_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-32_altform-unplated.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\Square44x44Logo.targetsize-48_altform-unplated.png">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\Square44x44Logo.targetsize-48_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48_altform-unplated.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\Square44x44Logo.targetsize-256_altform-unplated.png">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\Square44x44Logo.targetsize-256_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256_altform-unplated.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\Wide310x150Logo.scale-125.png">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\Wide310x150Logo.scale-125.png">
       <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\Wide310x150Logo.scale-150.png">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\Wide310x150Logo.scale-150.png">
       <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\Wide310x150Logo.scale-400.png">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\bin\x86\Debug\CoolBreeze.UWP.xr.xml">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\bin\x86\Debug\CoolBreeze.UWP.xr.xml">
       <PackagePath>CoolBreeze.UWP.xr.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
@@ -491,11 +506,11 @@
     <AppxPackagedFile Include="C:\Users\Jerin\.nuget\packages\Xamarin.Forms\2.3.3.193\lib\uap10.0\Xamarin.Forms.Platform.UAP\Properties\Xamarin.Forms.Platform.UAP.rd.xml">
       <PackagePath>Xamarin.Forms.Platform.UAP\Properties\Xamarin.Forms.Platform.UAP.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze.UWP\bin\x86\Debug\Core\CoolBreeze.UWP.exe">
+    <AppxPackagedFile Include="D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze.UWP\bin\x86\Debug\Core\CoolBreeze.UWP.exe">
       <PackagePath>CoolBreeze.UWP.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

@@ -23,3 +23,41 @@ c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolB
 c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\System.Net.Http.Extensions.xml
 c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\System.Net.Http.Primitives.xml
 c:\users\jerin\documents\visual studio 2017\Projects\CoolBreeze\CoolBreeze\CoolBreeze\obj\Debug\CoolBreeze.csproj.App.config
+D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\CoolBreeze.dll.config
+D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\CoolBreeze.dll
+D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\CoolBreeze.pdb
+D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\Newtonsoft.Json.dll
+D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\System.Net.Http.dll
+D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\System.Net.Http.Extensions.dll
+D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\System.Net.Http.Primitives.dll
+D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\Xamarin.Forms.Core.dll
+D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\Newtonsoft.Json.xml
+D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\System.Net.Http.xml
+D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\System.Net.Http.Extensions.xml
+D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\System.Net.Http.Primitives.xml
+D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\Xamarin.Forms.Core.xml
+D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze\obj\Debug\CoolBreeze.csproj.App.config
+D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze\obj\Debug\CoolBreeze.csprojResolveAssemblyReference.cache
+D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze\obj\Debug\CoolBreeze.MainPage.xaml.g.cs
+D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze\obj\Debug\CoolBreeze.App.xaml.g.cs
+D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze\obj\Debug\CoolBreeze.dll
+D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze\obj\Debug\CoolBreeze.pdb
+D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\Plugin.Geolocator.Abstractions.dll
+D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\Plugin.Geolocator.dll
+D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\Plugin.Geolocator.pdb
+D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\Plugin.Geolocator.xml
+D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\Plugin.Geolocator.Abstractions.xml
+D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze\obj\Debug\CoolBreeze.LocationPage.xaml.g.cs
+D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze\obj\Debug\CoolBreeze.StartPage.xaml.g.cs
+D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze\obj\Debug\CoolBreeze.ForecastPage.xaml.g.cs
+D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze\obj\Debug\CoolBreeze.dll.mdb
+D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\CoolBreeze.dll.mdb
+D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze\obj\Debug\CoolBreeze.dll.mdb
+D:\Xamarin Challenge\CoolBreeze\CoolBreeze\CoolBreeze\bin\Debug\CoolBreeze.dll.mdb
