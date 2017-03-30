@@ -1,7 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using Microsoft.Azure.Mobile;
+using Microsoft.Azure.Mobile.Analytics;
+using Microsoft.Azure.Mobile.Crashes;
 
 using Xamarin.Forms;
 
@@ -10,8 +9,8 @@ namespace CoolBreeze
     public partial class App : Application
     {
         public static MainViewModel ViewModel;
-        //public static string RegistrationCode = "<YOUR CHALLENGE REGISTRATION CODE>";
-        public static string RegistrationCode = "XBWW6B97595E687FA7D34CEB6367507F";
+        public static string RegistrationCode = "<YOUR CHALLENGE REGISTRATION CODE>";
+        
 
         public App()
         {
@@ -23,6 +22,7 @@ namespace CoolBreeze
         protected override void OnStart()
         {
             // Handle when your app starts
+            MobileCenter.Start(typeof(Analytics), typeof(Crashes));
         }
 
         protected override void OnSleep()
